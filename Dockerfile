@@ -40,6 +40,7 @@ ARG JANUS_BUILD_DEPS_DEV="\
     libopus-dev \
     libogg-dev \
     pkg-config \
+    libconfig-dev \
     "
 ARG JANUS_BUILD_DEPS_EXT="\
     libavutil-dev \
